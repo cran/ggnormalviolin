@@ -1,6 +1,6 @@
 Package: ggnormalviolin
 Title: A 'ggplot2' Extension to Make Normal Violin Plots
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(given = "W. Joel",
            family = "Schneider",
@@ -21,8 +21,8 @@ Language: en-US
 LazyData: true
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2018-11-20 12:49:56 UTC; renee
+Packaged: 2019-05-27 17:57:40 UTC; renee
 Author: W. Joel Schneider [aut, cre] (<https://orcid.org/0000-0002-8393-5316>)
 Maintainer: W. Joel Schneider <w.joel.schneider@gmail.com>
 Repository: CRAN
-Date/Publication: 2018-11-30 23:40:06 UTC
+Date/Publication: 2019-05-27 18:10:03 UTC
